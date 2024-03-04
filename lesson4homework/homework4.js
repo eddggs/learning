@@ -1,6 +1,6 @@
 
 
-const firstlist = [1, 2, 3, 14, 5, 20, 78, 11, 120, 22, 9, 18, 155, 168, 88, 69, 102, 1000231234 ];
+const firstlist = [1, 2, 3, 14, 5, 20, 78, 11, 120, 22, 9, 18, 155, 168, 88, 69, 102, 1000231234];
 const finallist = []
 for (let i = 0; i < firstlist.length; i = i + 1){
         const numeros = firstlist[i];    
