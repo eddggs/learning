@@ -88,9 +88,5 @@ function getchocolate (name){
 vendingmachine('drink', 'cola')
 vendingmachine('chocolate', 'hazelnut')
 
-const user = {
 
-    age:10
-    name:'edd'
-    job: 'pro'
-}
+
